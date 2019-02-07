@@ -1,14 +1,16 @@
-h1{
-  color: yellow;
+. intro {
+  font-style: italic;
 }
-
-
-h2{
-
-  color: green;
-  font-style:italic;
-  text-align: center;
+.author {
+  color: blue;
 }
-p{
-  font-family: sans-seriff;
+p.author {
+  font-size: 12px;
 }
+. Tropical {
+  text color: green;
+font-family: magical;
+}
+h1 color: 7dc410
+h2 color: 7dc410
+h3 color: 7dc410
